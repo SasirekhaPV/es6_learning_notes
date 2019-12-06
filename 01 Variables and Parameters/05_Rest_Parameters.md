@@ -25,6 +25,7 @@ let sum = function(...numbers) {
   }
   return result;
 };
+sum();
 ```
 
 &nbsp;
