@@ -25,7 +25,7 @@ let sum = function(...numbers) {
   }
   return result;
 };
-sum();
+console.log(sum(1,2,3));
 ```
 
 &nbsp;
